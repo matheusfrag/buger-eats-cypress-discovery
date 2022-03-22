@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Matheus Fraga",
+        "cpf": "00000014141",
+        "email": "fraga@fraga.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "30110012",
+            "street": "Avenida do Contorno",
+            "number": "2090",
+            "details": "Sala 401",
+            "district": "Floresta",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Matheus Fraga",
+        "cpf": "000000141AA",
+        "email": "fraga@fraga.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "30110012",
+            "street": "Avenida do Contorno",
+            "number": "2090",
+            "details": "Sala 401",
+            "district": "Floresta",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Matheus Fraga",
+        "cpf": "00000014141",
+        "email": "fraga.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "30110012",
+            "street": "Avenida do Contorno",
+            "number": "2090",
+            "details": "Sala 401",
+            "district": "Floresta",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+
+}
